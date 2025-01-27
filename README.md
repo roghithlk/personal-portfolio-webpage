@@ -6,7 +6,7 @@
 
 **INTERN ID** : CT08MDM
 
-**DOMIN** : Fronted development 
+**DOMIN** : Frontend web  development 
 
 **BATCH DURATION** : January 15th, 2025 to February  15th, 2025
 
