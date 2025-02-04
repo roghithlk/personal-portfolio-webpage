@@ -14,5 +14,5 @@
 
 #Enter the distripction of the task performed no less than 500 words
 
-**OUTPUT** : ![Image](https://github.com/user-attachments/assets/8d19a730-4031-474d-bc11-4d9bd5ea8aba)
+**OUTPUT** :![Image](https://github.com/user-attachments/assets/48a1a65c-49d9-4ef8-b823-1bb4107c40cd)
 
